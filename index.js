@@ -24,3 +24,4 @@ console.log(encouragingPromptFunction("amazing")); // "You are !!!amazing!!!"
 
 const defaultFlairFunction = wrapAdjective(); 
 console.log(defaultFlairFunction()); // "You are *special*!"
+wrapAdjective("%")("a dedicated programmer");
