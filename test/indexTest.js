@@ -1,4 +1,4 @@
-require ( './helpers.js' );
+ './helpers.js';
 
 describe("index.js", () => {
   describe("defines saturdayFun function declaration as specified", function() {
